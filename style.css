@@ -1,0 +1,69 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    margin: 0px;
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 10px 13px whitesmoke;
+}
+
+.note
+{
+    font-size: 18px;
+    color: brown;
+}
+
+.heading:hover
+{
+color: teal;
+border: 5px solid aquamarine;
+background-color: lightpink;
+}
+
+
+.div_volume
+{
+    float: right;
+    margin-top: 50px;
+}
+
+.div_volume_image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume , #speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_speed
+{
+    float: left;
+    margin-top: 10px;
+}
+
+.div_speed_image
+{
+    width: 200px;
+    border-radius: 100px;
+    
+}
+
+#dj:hover{
+border-radius: 10px;
+border: 5px solid snow;
+box-shadow: 10px 10px 12px red;
+background-color: lightblue;
+color: darkcyan;
+}
+
+#dj{
+    font-size: 25px;
+}
